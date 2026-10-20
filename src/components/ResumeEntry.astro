@@ -12,7 +12,7 @@ const dateRange = formatDateRangeParts(item.when);
 ---
 
 <article class="border-t border-neutral-50/25 py-5 first:border-t-0">
-  <h3 class="text-base text-neutral-50" set:html={renderInlineMarkdown(item.what)}></h3>
+  <h3 class="rich-text text-base text-neutral-50" set:html={renderInlineMarkdown(item.what)}></h3>
   <p class="resume-location text-base text-neutral-50" set:html={formatLocationHtml(item.where)}></p>
   {
     item.description && (

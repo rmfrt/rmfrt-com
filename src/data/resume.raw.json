@@ -18,12 +18,12 @@
                 "city": "Lyon",
                 "country": "France"
             },
-            "when": { "start": "2019", "end": "NOW" },
-            "description": "Teach typography principles, focusing on typeface selection, usage, and foundational design concepts.",
+            "when": { "start": "2019", "end": "2026" },
+            "description": "Taught typography principles, focusing on typeface selection, usage, and foundational design concepts.",
             "visible": true
         },
         {
-            "what": "Organizer, TypoLyon Lecture Series",
+            "what": "Organizer, [TypoLyon](https://www.typolyon.fr/) Lecture Series",
             "where": { "location": "Strate école de design", "city": "Lyon", "country": "France" },
             "when": { "start": "2023", "end": "NOW" },
             "description": "Coordinate and develop a lecture series highlighting the local typographic community.",
@@ -87,6 +87,22 @@
     ],
     "Lectures": [
         {
+            "what": "Writing, Typography, Program: The Unity of a System",
+            "where": {
+                "location": "Université Toulouse–Jean-Jaurès",
+                "city": "Toulouse",
+                "country": "France"
+            },
+            "when": { "start": "2026-04", "end": "" },
+            "visible": true
+        },
+        {
+            "what": "Poetic Program, Typographic System",
+            "where": { "location": "TypoLyon", "city": "Lyon", "country": "France" },
+            "when": { "start": "2025-05", "end": "" },
+            "visible": true
+        },
+        {
             "what": "205TF Type Foundry Presentation",
             "where": { "location": "Puces Typos", "city": "Paris", "country": "France" },
             "when": { "start": "2024-05", "end": "" },
@@ -134,7 +150,7 @@
         },
         {
             "what": "How I Write and Design *Crosswords*",
-            "where": { "location": "LPO André Malraux", "city": "Montereau Fault-Yonne", "country": "France" },
+            "where": { "location": "LPO André Malraux", "city": "Montereau-Fault-Yonne", "country": "France" },
             "when": { "start": "2023-02", "end": "" },
             "description": "Explained the creative process behind the book *Crosswords* to students.",
             "visible": true
@@ -144,6 +160,16 @@
             "where": { "location": "Rencontres internationales de Lure", "city": "Lurs", "country": "France" },
             "when": { "start": "2022-08", "end": "" },
             "description": "Presented generative approaches to poetry and typography.",
+            "visible": true
+        },
+        {
+            "what": "Poetic Program, Typographic System",
+            "where": {
+                "location": "Écritures numériques, nouvelles gestualités ?, UTC",
+                "city": "Compiègne",
+                "country": "France"
+            },
+            "when": { "start": "2022-06", "end": "" },
             "visible": true
         },
         {
@@ -158,14 +184,24 @@
             "visible": true
         },
         {
-            "what": "Séminaire “Textualités contemporaines”",
-            "where": "Université Paris 8 Vincennes Saint-Denis",
-            "when": { "start": "2021-06", "end": "" }
+            "what": "Minimal Typographic Operations",
+            "where": {
+                "location": "Séminaire Textualités contemporaines, Université Paris 8",
+                "city": "Online",
+                "country": ""
+            },
+            "when": { "start": "2021-06", "end": "" },
+            "visible": true
         },
         {
-            "what": "“Let It Read” international symposium",
-            "where": "Campus Fonderie de l’image (Bagnolet)",
-            "when": { "start": "2019-11", "end": "" }
+            "what": "Poetic Program, Typographic System",
+            "where": {
+                "location": "Let it read, Campus Fonderie de l’image",
+                "city": "Bagnolet",
+                "country": "France"
+            },
+            "when": { "start": "2019-11", "end": "" },
+            "visible": true
         },
         {
             "what": "Le temps découpé en son lieu",
@@ -173,9 +209,14 @@
             "when": { "start": "2019-11", "end": "" }
         },
         {
-            "what": "Colloque international Machiner la poésie (et la poétique) 3",
-            "where": "Atilf, Cnrs (Nancy)",
-            "when": { "start": "2019-09", "end": "" }
+            "what": "Poetic Program, Typographic System",
+            "where": {
+                "location": "Machiner la poésie (et la poétique) 3, ATILF-CNRS",
+                "city": "Nancy",
+                "country": "France"
+            },
+            "when": { "start": "2019-09", "end": "" },
+            "visible": true
         },
         {
             "what": "Journée d’étude Écologie des contenus générés par les utilisateurs",
@@ -200,6 +241,17 @@
     ],
     "Publications": [
         {
+            "what": "Submersible Anthology",
+            "where": {
+                "location": "[Submersible Press](https://submersiblepress.wordpress.com/2026/09/30/submersible-anthology/)",
+                "city": "",
+                "country": "Australia"
+            },
+            "when": { "start": "2026-09", "end": "" },
+            "description": "Contribution to a collective anthology of experimental writing and art.",
+            "visible": true
+        },
+        {
             "what": "Introspection",
             "where": {
                 "location": "[Container](https://acontainer.co/projects/look-book-2024/)",
@@ -222,7 +274,7 @@
         {
             "what": "X, O, Cross, Circle",
             "where": {
-                "location": "[Revue Dire #1](https://www.tierslivre.net/revue/spip.php?article849)",
+                "location": "[Revue Dire #1](https://www.librairie-tiers-livre.store/livres-collectifs/p/dire-la-revue-annuelle-de-tiers-livre)",
                 "city": "",
                 "country": "France"
             },
@@ -253,7 +305,7 @@
         {
             "what": "Extase",
             "where": {
-                "location": "[Revue Revu #9](https://associationrevu.com/)",
+                "location": "[Revue Revu #9](https://associationrevu.wordpress.com/numero-9-cycles/)",
                 "city": "",
                 "country": "France"
             },
@@ -297,7 +349,7 @@
             "what": "Experimental Typographic Systems",
             "where": {
                 "location": "LPO André Malraux",
-                "city": "Montereau Fault-Yonne",
+                "city": "Montereau-Fault-Yonne",
                 "country": "France"
             },
             "when": { "start": "2023-02", "end": "" },
@@ -313,6 +365,17 @@
             },
             "when": { "start": "2022-12", "end": "" },
             "description": "Conducted a workshop on experimental typographic design under constraint, in collaboration with Simon Renaud.",
+            "visible": true
+        },
+        {
+            "what": "Typographic Program",
+            "where": {
+                "location": "Lycée Jacques-Prévert",
+                "city": "Boulogne-Billancourt",
+                "country": "France"
+            },
+            "when": { "start": "2022-04", "end": "" },
+            "description": "Led a workshop on designing grid-based display typefaces through experimental rules and protocols.",
             "visible": true
         },
         {
@@ -338,7 +401,7 @@
             "visible": true
         }
     ],
-    "Jury Member": [
+    "Jury Service": [
         {
             "what": "Master’s in Communication (Arts and Graphic Languages)",
             "where": { "location": "École Supérieure d’Art de Lorraine", "city": "Metz", "country": "France" },
@@ -347,7 +410,7 @@
         },
         {
             "what": "Bachelor’s in Graphic Design",
-            "where": { "location": "LPO André Malraux", "city": "Montereau Fault-Yonne", "country": "France" },
+            "where": { "location": "LPO André Malraux", "city": "Montereau-Fault-Yonne", "country": "France" },
             "when": { "start": "2023-02", "end": "" },
             "visible": true
         },
@@ -379,20 +442,20 @@
         },
         {
             "what": "This word doesn’t exist",
-            "where": { "location": "The Wrong Biennale", "city": "online", "country": "" },
+            "where": { "location": "The Wrong Biennale", "city": "Online", "country": "" },
             "when": { "start": "2019-04", "end": "" },
             "description": "Participated in a group exhibition focusing on the semiotic shifts driven by the Internet.",
             "visible": true
         },
         {
             "what": "Algolit",
-            "where": { "location": "Mundaneum", "city": "Mons", "country": "Belgique" },
+            "where": { "location": "Mundaneum", "city": "Mons", "country": "Belgium" },
             "when": { "start": "2019-04", "end": "" },
             "description": "Contributed to a collective exhibition exploring the intersection of algorithms and literature.",
             "visible": true
         }
     ],
-    "Press Review": [
+    "Press Coverage": [
         {
             "what": "Krata is a Typeface that Bridges Design and Programming",
             "where": {
